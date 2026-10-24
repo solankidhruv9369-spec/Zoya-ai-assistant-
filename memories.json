@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mem_init_1",
+    "fact": "Dhruv is my creator, boss, and sole authorized owner. He has 100% exclusive authority.",
+    "category": "personal",
+    "created_at": "2026-08-22T13:19:43.13+00:00",
+    "source": "system"
+  },
+  {
+    "id": "mem_init_2",
+    "fact": "Dhruv speaks Hindi and English. He prefers a lively, responsive, and natural companion tone.",
+    "category": "personal",
+    "created_at": "2026-08-22T13:19:43.13+00:00",
+    "source": "system"
+  }
+]

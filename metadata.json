@@ -1,0 +1,11 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "A real-time, sassy, and playful voice-to-voice AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

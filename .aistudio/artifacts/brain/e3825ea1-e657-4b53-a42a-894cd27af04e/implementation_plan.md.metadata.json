@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for adding an in-app floating web browser tab inside Zoya. It addresses popup-blocker issues and iframe constraints by displaying requested websites directly within a floating, draggable/resizable browser modal with URL bar, reload, maximize, and external link fallbacks.",
+  "updatedAt":  "2026-10-24T10:56:28.628762658Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
